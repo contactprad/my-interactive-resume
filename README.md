@@ -1,2 +1,1 @@
-# my-interactive-resume
-this is for creating the website
+This is my personal website and act as a one page resume.
